@@ -1,4 +1,4 @@
-// 자바스크립트 13. 비동기의 꽃 JavaScript async 와 await 그리고 유용한 Promise APIs | 프론트엔드 개발자 입문편 (JavaScript ES6)
+// 자바스크립트 13. 비동기의 꽃 JavaScript async 와 await 그리고 유용한 Promise APIs
 // https://www.youtube.com/watch?v=aoQSOZfz3vQ
 
 // --- 1. async ---
